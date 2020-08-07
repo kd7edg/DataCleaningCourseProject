@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 # Author: Julio Camara
-# Date: 6-Aug-2020
+# Date: 7-Aug-2020
 
 # Load train sets
 x_train <- read.table("./UCI HAR Dataset/train/X_train.txt")

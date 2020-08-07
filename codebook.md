@@ -1,4 +1,6 @@
-# Code Book
+# Code Book - Getting and Cleaning Data Course Project
+## Author: Julio Camara
+## Date: 7-Aug-2020
 
 To reproduce this analysis, the first step is to download the data set in the following URL:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
